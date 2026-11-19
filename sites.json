@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "categories": ["포털", "티켓예매", "기차", "예약", "수강신청"],
+  "sites": [
+    { "title": "네이버", "shortTitle": "네이버", "category": "포털", "host": "www.naver.com", "symbol": "n.circle.fill", "color": "#03C75A" },
+
+    { "title": "NOL 티켓", "shortTitle": "NOL", "category": "티켓예매", "host": "nol.interpark.com", "symbol": "ticket.fill", "color": "#8C78FF" },
+    { "title": "멜론티켓", "shortTitle": "멜론", "category": "티켓예매", "host": "ticket.melon.com", "symbol": "music.note", "color": "#00CD3C" },
+    { "title": "예스24 티켓", "shortTitle": "예스24", "category": "티켓예매", "host": "ticket.yes24.com", "symbol": "book.fill", "color": "#2F80ED" },
+    { "title": "티켓링크", "shortTitle": "티켓링크", "category": "티켓예매", "host": "www.ticketlink.co.kr", "symbol": "link", "color": "#FF4D4D" },
+
+    { "title": "코레일", "shortTitle": "코레일", "category": "기차", "host": "www.letskorail.com", "symbol": "tram.fill", "color": "#3894FF" },
+    { "title": "SRT", "shortTitle": "SRT", "category": "기차", "host": "etk.srail.kr", "symbol": "tram.fill", "color": "#B4558C" },
+
+    { "title": "네이버 예약", "shortTitle": "N예약", "category": "예약", "host": "booking.naver.com", "symbol": "calendar", "color": "#03C75A" },
+    { "title": "캐치테이블", "shortTitle": "캐치테이블", "category": "예약", "host": "app.catchtable.co.kr", "symbol": "fork.knife", "color": "#FF8A00" },
+
+    { "title": "서울대학교", "shortTitle": "서울대", "category": "수강신청", "host": "sugang.snu.ac.kr", "symbol": "graduationcap.fill", "color": "#5B8DEF" },
+    { "title": "고려대학교", "shortTitle": "고려대", "category": "수강신청", "host": "sugang.korea.ac.kr", "symbol": "graduationcap.fill", "color": "#E0465A" },
+    { "title": "연세대학교", "shortTitle": "연세대", "category": "수강신청", "host": "ysweb.yonsei.ac.kr", "symbol": "graduationcap.fill", "color": "#4A7BFF" },
+    { "title": "경희대학교", "shortTitle": "경희대", "category": "수강신청", "host": "sugang.khu.ac.kr", "symbol": "graduationcap.fill", "color": "#C8433A" },
+    { "title": "건국대학교", "shortTitle": "건국대", "category": "수강신청", "host": "sugang.konkuk.ac.kr", "symbol": "graduationcap.fill", "color": "#2EB872" },
+    { "title": "동국대학교", "shortTitle": "동국대", "category": "수강신청", "host": "sugang.dongguk.edu", "symbol": "graduationcap.fill", "color": "#FF9F43" },
+    { "title": "국민대학교", "shortTitle": "국민대", "category": "수강신청", "host": "sugang.kookmin.ac.kr", "symbol": "graduationcap.fill", "color": "#3D8BFD" },
+    { "title": "서울시립대학교", "shortTitle": "시립대", "category": "수강신청", "host": "wise.uos.ac.kr", "symbol": "graduationcap.fill", "color": "#4FA3E0" },
+    { "title": "이화여자대학교", "shortTitle": "이화여대", "category": "수강신청", "host": "sugang.ewha.ac.kr", "symbol": "graduationcap.fill", "color": "#2BAE66" },
+    { "title": "중앙대학교", "shortTitle": "중앙대", "category": "수강신청", "host": "sugang.cau.ac.kr", "symbol": "graduationcap.fill", "color": "#4F7DF3" },
+    { "title": "한양대학교", "shortTitle": "한양대", "category": "수강신청", "host": "portal.hanyang.ac.kr", "symbol": "graduationcap.fill", "color": "#3A6FD8" },
+    { "title": "광운대학교", "shortTitle": "광운대", "category": "수강신청", "host": "klas.kw.ac.kr", "symbol": "graduationcap.fill", "color": "#B0435F" }
+  ]
+}
